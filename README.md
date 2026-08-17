@@ -285,12 +285,12 @@ Ghi đúng câu sau trong README/note:
 
 > Câu hỏi hiệu quả nhất là: **“Kể mình nghe về lần gần nhất bạn đang học một nội dung và bị mắc ở một chỗ đến mức phải dừng lại để tìm cách xử lý?”**  
 > Nó buộc conversation bám vào một event có thời điểm, context và sequence thay vì opinion chung.  
-> **Evidence từ practice thật:** [ĐIỀN 1–2 câu cụ thể]
+> **Evidence từ practice thật:** Với learner L01, câu hỏi về lần gần đây bị vướng đã mở ra một tình huống cụ thể: learner không hiểu bài nhưng ngại giơ tay hỏi giảng viên, sau đó chuyển sang hỏi AI, Google và bạn bè. Với instructor I01, câu hỏi về learner gặp khó nhưng chưa chủ động hỏi giúp khai thác được cách instructor theo dõi checkpoint VLab và chủ động đến bàn xác nhận.
 
 ### 2. Chỗ nào mình cần làm tốt hơn ở lần phỏng vấn thật?
 
 > Mình cần tránh nhảy quá nhanh sang “vì sao” hoặc giải thích hộ interviewee. Khi nghe một tín hiệu như “mình xem lại mấy lần”, nên hỏi **“sau lần xem lại đầu tiên thì bạn làm gì tiếp?”** trước khi suy luận đó là khó khăn.  
-> **Moment cụ thể từ practice:** [ĐIỀN]
+> **Moment cụ thể từ practice:** Ở interview instructor, mình đã đưa sẵn quá nhiều ví dụ như “buồn ngủ”, “mất tập trung”, “sang tab khác”, “Facebook”, “chơi game”, khiến câu hỏi bị leading. Ở interview learner, mình cũng ngắt câu chuyện bằng câu “chỉ cần trả lời là mình vướng mắc ở đâu”, làm mất cơ hội đào sâu sequence tự nhiên của event.
 
 ### 3. Sau khi luyện, nhóm đã sửa Conversation Guide ở đâu và vì sao?
 
@@ -299,7 +299,7 @@ Ghi đúng câu sau trong README/note:
 > - tách “hành vi” khỏi “ý nghĩa của hành vi”, vì xem lại/highlight có thể là learning strategy bình thường;
 > - thêm scary question cho instructor: **“Có trường hợp bạn đã biết learner gặp khó nhưng vẫn không follow-up được không?”** để kiểm tra xem bottleneck thật có phải detection hay không.
 >
-> **Sửa đổi phát sinh từ practice thật:** [ĐIỀN]
+> **Sửa đổi phát sinh từ practice thật:** Sau hai lượt interview, nhóm sửa guide theo ba điểm: (1) mở bằng một recent-event cụ thể và để participant kể hết sequence trước khi probe; (2) bỏ các ví dụ về behavioral signal khỏi câu hỏi chính để tránh dẫn dắt; (3) thêm câu hỏi kiểm tra false positive và consequence, vì L01 cho thấy learner có thể tự xử lý nhanh bằng AI/Google/bạn bè, còn I01 cho thấy checkpoint chậm đôi khi chỉ do quên tick chứ không phải đang gặp khó. Vì vậy, guide cần phân biệt “có dấu hiệu struggling” với “thực sự cần instructor can thiệp”.
 
 ---
 
